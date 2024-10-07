@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bimbo-Blessing
 - 👀 I’m interested in analysis
 - 🌱 I’m currently learning data analysis in LITA powered by Incubatorhub
-- 💞️ Tools used: Ms Excel, SQl, and PowerBI
+- 💞️ Tools used: Ms Excel, SQL, and PowerBI
 - 📫 How to reach me: Email- primeconsult01@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
