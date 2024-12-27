@@ -4,7 +4,7 @@
 - 💞️ Tools used: Ms Excel, SQL, and PowerBI
 - I am also a certified communicator from D'lor Academy
 - 📫 How to reach me: Email- primeconsult01@gmail.com
-- LinkedIn : https:www.linkedin.com/in/prime-consult-b10546325
+- LinkedIn : https:www.linkedin.com/in/abimbola-oki-b10546325
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
