@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bimbo-Blessing
 - 👀 I’m interested in analysis
-- 🌱 I’m currently learning data analysis in LITA powered by Incubatorhub
+- 🌱 I am a certified Data Analyst under the LITA program powered by The Incubatorhub
 - 💞️ Tools used: Ms Excel, SQL, and PowerBI
 - I am also a certified communicator from D'lor Academy
 - 📫 How to reach me: Email- primeconsult01@gmail.com
