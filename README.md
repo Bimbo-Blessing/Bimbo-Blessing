@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bimbo-Blessing
+- 👋 Hi, I’m Abimbola Oki
 - 👀 I’m interested in analysis
 - 🌱 I am a certified Data Analyst under the LITA program powered by The Incubatorhub
 - 💞️ Tools used: Ms Excel, SQL, and PowerBI
